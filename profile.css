@@ -45,6 +45,9 @@ a:hover { color: var(--text); }
   gap: 40px;
   border-bottom: 1px solid var(--line);
   justify-content: center;
+    padding-left: 300px;
+  padding-right: 300px;
+
 }
 
 .kiri {
@@ -158,6 +161,9 @@ a:hover { color: var(--text); }
 
 .bagian-kutipan {
     padding-top: 150px;
+    padding-left: 300px;
+    padding-right: 300px;
+
 }
 
 .kutipan h1 {
