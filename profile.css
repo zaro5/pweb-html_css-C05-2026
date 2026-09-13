@@ -30,6 +30,8 @@ a:hover { color: var(--text); }
 .bagian-kutipan {
   flex-direction: row;
   align-items: center;
+  padding-left: 300px;
+  padding-right: 300px;
 
   gap: 60px;
 }
