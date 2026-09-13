@@ -131,8 +131,6 @@ a:hover { color: var(--text); }
 }
 
 
-/* ===== BIODATA / SEKOLAH / WAFAT ===== */
-
 
 .biodata {
 
@@ -267,5 +265,6 @@ section.link {
 
   .kutipan h1 {
     font-size: clamp(22px, 6vw, 32px);
-  }
+    padding-bottom: 150px;
+}
 }
